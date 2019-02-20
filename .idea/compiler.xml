@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lanqiao-select-common" />
+        <module name="lanqiao-select-manager-dao" />
+        <module name="lanqiao-select-manager-interface" />
+        <module name="lanqiao-select-manager-pojo" />
+        <module name="lanqiao-select-manager-services" />
+        <module name="lanqiao-select-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lanqiao-select-common" target="1.7" />
+      <module name="lanqiao-select-manager" target="1.7" />
+      <module name="lanqiao-select-manager-dao" target="1.7" />
+      <module name="lanqiao-select-manager-interface" target="1.7" />
+      <module name="lanqiao-select-manager-pojo" target="1.7" />
+      <module name="lanqiao-select-manager-services" target="1.7" />
+      <module name="lanqiao-select-manager-web" target="1.7" />
+      <module name="lanqiaoselectparent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lanqiao-select-manager-web:war">
+    <output-path>$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/target</output-path>
+    <root id="archive" name="lanqiao-select-manager-web.war">
+      <element id="artifact" artifact-name="lanqiao-select-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>

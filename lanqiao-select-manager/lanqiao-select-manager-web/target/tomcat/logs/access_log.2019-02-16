@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [16/Feb/2019:16:27:54 +0800] "GET /lanqiao-select-manager-web HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [16/Feb/2019:16:28:24 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [16/Feb/2019:16:29:31 +0800] "GET /lanqiao-select-manager-web/index HTTP/1.1" 404 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [16/Feb/2019:16:29:46 +0800] "GET /index HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [16/Feb/2019:16:29:52 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [16/Feb/2019:16:30:05 +0800] "GET /index.jsp HTTP/1.1" 404 - http-bio-8080-exec-8 0

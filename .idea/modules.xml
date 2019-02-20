@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lanqiao-select-common/lanqiao-select-common.iml" filepath="$PROJECT_DIR$/lanqiao-select-common/lanqiao-select-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager.iml" filepath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-dao/lanqiao-select-manager-dao.iml" filepath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-dao/lanqiao-select-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-interface/lanqiao-select-manager-interface.iml" filepath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-interface/lanqiao-select-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-pojo/lanqiao-select-manager-pojo.iml" filepath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-pojo/lanqiao-select-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-services/lanqiao-select-manager-services.iml" filepath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-services/lanqiao-select-manager-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/lanqiao-select-manager-web.iml" filepath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/lanqiao-select-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiaoselectparent/lanqiaoselectparent.iml" filepath="$PROJECT_DIR$/lanqiaoselectparent/lanqiaoselectparent.iml" />
+    </modules>
+  </component>
+</project>
