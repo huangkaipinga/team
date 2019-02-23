@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="671e9a6b-16aa-4c56-90dc-bd5f52d428dc" name="默认" comment="0.0.1">
+    <list default="true" id="671e9a6b-16aa-4c56-90dc-bd5f52d428dc" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/lanqiao_select_manager_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/lanqiao_select_manager_web_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_3_4_2_fix.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-pojo/src/main/java/edu/aust/pojo/WqysUserWeixin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-pojo/src/main/java/edu/aust/pojo/WqysUserWeixinExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/target/tomcat/logs/access_log.2019-02-16" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-services/lanqiao-select-manager-services.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-services/lanqiao-select-manager-services.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/lanqiao-select-manager-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/lanqiao-select-manager-web.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lanqiao-select-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lanqiao-select-manager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lanqiaoselectparent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lanqiaoselectparent/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/lanqiaoselectparent/target/" />
     <ignored path="$PROJECT_DIR$/lanqiao-select-common/target/" />
@@ -37,21 +37,21 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="10" />
+          <entry key="java" value="12" />
           <entry key="jsp" value="1" />
           <entry key="md" value="1" />
-          <entry key="properties" value="1" />
-          <entry key="xml" value="28" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="12" />
           <entry key="JSP" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="28" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -59,17 +59,17 @@
           <entry key="java" value="41" />
           <entry key="jsp" value="18" />
           <entry key="properties" value="14" />
-          <entry key="txt" value="33" />
-          <entry key="xml" value="213" />
+          <entry key="txt" value="39" />
+          <entry key="xml" value="230" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="41" />
           <entry key="JSP" value="18" />
-          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="PLAIN_TEXT" value="39" />
           <entry key="Properties" value="14" />
-          <entry key="XML" value="213" />
+          <entry key="XML" value="230" />
         </counts>
       </usages-collector>
     </session>
@@ -77,28 +77,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-dao/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="123" selection-start-line="123" selection-end-line="123" />
+            <state relative-caret-position="162">
+              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-interface/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1373">
+              <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-services/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4104">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/src/main/java/edu/aust/MyPortlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1323">
-              <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+            <state relative-caret-position="270">
+              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -106,45 +133,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lanqiaoselectparent/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4344">
-              <caret line="136" column="26" selection-start-line="136" selection-start-column="26" selection-end-line="136" selection-end-column="26" />
+            <state relative-caret-position="-1215">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state relative-caret-position="162">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lanqiao-select-common/src/main/java/edu/aust/common/pojo/CookieUtils.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-pojo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
+            <state relative-caret-position="-1514">
               <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
             </state>
           </provider>
@@ -154,7 +161,7 @@
         <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-services/src/main/java/edu/aust/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="214">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -193,15 +200,15 @@
         <option value="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/java/edu.aust/controller/ItemController.java" />
         <option value="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/pom.xml" />
-        <option value="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-dao/pom.xml" />
         <option value="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-pojo/src/main/java/edu/aust/pojo/TbItem.java" />
         <option value="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-dao/src/main/java/edu/aust/mapper/ItemMapper.java" />
         <option value="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-pojo/src/main/java/edu/aust/pojo/WqysUserWeixin.java" />
         <option value="$PROJECT_DIR$/lanqiao-select-common/src/main/java/edu/aust/common/pojo/CookieUtils.java" />
-        <option value="$PROJECT_DIR$/lanqiaoselectparent/pom.xml" />
         <option value="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/lanqiao-select-manager/pom.xml" />
         <option value="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/lanqiaoselectparent/pom.xml" />
+        <option value="$PROJECT_DIR$/lanqiao-select-manager/pom.xml" />
       </list>
     </option>
   </component>
@@ -224,8 +231,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="6" />
-    <option name="y" value="27" />
+    <option name="x" value="21" />
+    <option name="y" value="197" />
     <option name="width" value="1346" />
     <option name="height" value="666" />
   </component>
@@ -246,11 +253,6 @@
             </path>
             <path>
               <item name="lanqiao-select" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lanqiao-select-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="lanqiao-select-manager-dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lanqiao-select" type="b2602c69:ProjectViewProjectNode" />
               <item name="lanqiaoselectparent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -262,9 +264,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550888788059" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550899422240" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lanqiao-select-manager" />
+    <property name="last_opened_file_path" value="D:/jar包/pagehelper-3.4.2-fix.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="模块" />
@@ -292,7 +294,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Maven.lanqiao-select-manager">
+    <configuration name="All Features in: lanqiao-select-manager" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/lanqiao-select-manager" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="lanqiao-select-manager" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: lanqiao-select-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lanqiao-select-manager" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -319,6 +338,15 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Maven.lanqiao-select-manager" />
+      <item itemvalue="Cucumber java.All Features in: lanqiao-select-manager" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.All Features in: lanqiao-select-manager" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -331,40 +359,65 @@
       <option name="presentableId" value="Default" />
       <updated>1550289303568</updated>
       <workItem from="1550289307853" duration="10565000" />
-      <workItem from="1550884172895" duration="3891000" />
+      <workItem from="1550884172895" duration="11471000" />
     </task>
+    <task id="LOCAL-00001" summary="0.0.1">
+      <created>1550888906925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550888906925</updated>
+    </task>
+    <task id="LOCAL-00002" summary="0.0.1">
+      <created>1550896816174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550896816174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__lanqiao-select-manager - 2019.02.23 at 11h 06m 34s.xml">
+      <configuration name="All Features in: lanqiao-select-manager" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__lanqiao-select-manager - 2019.02.23 at 11h 10m 38s.xml">
+      <configuration name="All Features in: lanqiao-select-manager" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__lanqiao-select-manager - 2019.02.23 at 11h 53m 10s.xml">
+      <configuration name="All Features in: lanqiao-select-manager" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14456000" />
+    <option name="totallyTimeSpent" value="22036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2806354" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="设计器" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="设计器" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.27987897" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3852459" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23114754" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.25737706" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.27213115" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="调试" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="13" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="调试" order="14" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -392,20 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-services/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -437,20 +476,6 @@
     <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/java/edu.aust/controller/ItemController.class" />
     <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/java/edu.aust/controller/ItemController.java" />
     <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/java/edu/aust/service/impl/ItemService.java" />
-    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/src/main/java/edu/aust/MyPortlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1018">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-829">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-pojo/src/main/java/edu/aust/pojo/TbItem.java" />
     <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-dao/src/main/java/edu/aust/mapper/ItemMapper.java" />
     <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-pojo/src/main/java/edu/aust/pojo/WqysUserWeixin.java">
@@ -487,24 +512,10 @@
     <entry file="file://$PROJECT_DIR$/lanqiao-select-common/src/main/java/edu/aust/common/pojo/CookieUtils.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="123" selection-start-line="123" selection-end-line="123" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lanqiaoselectparent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4344">
-          <caret line="136" column="26" selection-start-line="136" selection-start-column="26" selection-end-line="136" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -526,31 +537,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-pojo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-services/src/main/java/edu/aust/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="162">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/src/main/java/edu/aust/MyPortlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-services/target/classes/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1373">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1514">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-services/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4104">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/lanqiao-select-manager-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanqiaoselectparent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lanqiao-select-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -564,7 +620,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.291954" />
                 <option value="0.5" />
               </list>
             </option>
@@ -577,7 +633,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.291954" />
               </list>
             </option>
           </splitter-proportions>
@@ -588,7 +644,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.291954" />
               </list>
             </option>
           </splitter-proportions>
@@ -600,7 +656,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.291954" />
               </list>
             </option>
           </splitter-proportions>
@@ -613,7 +669,6 @@
             <option name="proportions">
               <list>
                 <option value="0.291954" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -621,11 +676,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.alibaba:druid:1.0.9</last-edited>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.291954" />
               </list>
             </option>
           </splitter-proportions>
